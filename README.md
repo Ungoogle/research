@@ -1,3 +1,6 @@
-# research
+# research/Hacking-Vaccination
+# Hacking-Vaccination
 
-This repository is various indicator lists and/or free research tools provided by Bambenek Labs. Any questions please contact support@bambenekconsulting.com
+This repository includes;but not limited to various indicator lists and/or free research tools provided by Bambenek Labs originally. Any questions about those contributions, please contact them here: support@bambenekconsulting.com .
+
+Otherwise contact Ungoogle on Github @ https://github.com/Ungoogle.
